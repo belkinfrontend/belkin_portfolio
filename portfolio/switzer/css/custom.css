@@ -1,0 +1,15 @@
+.list-icons li a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.list-icons li a:hover {
+    text-decoration: underline;
+    color: inherit;
+}
+
+.media {
+    margin: 50px 0;
+}
+
+
